@@ -1,16 +1,22 @@
 # ElectricityProject
 
+
+markdown
+Kopioi koodi
 # Application Overview
 
-This application is an Android app developed using Kotlin in Android Studio. It fetches electricity price data from a public API, specifically focusing on spot market electricity prices. The app retrieves and displays real-time and historical electricity price data, providing users with up-to-date information in an easy-to-read format.
+This repository contains two main components: an Android application and a Python API.
 
-## Key Features
+## Android Application
+The Android app is developed using Kotlin in Android Studio. It fetches electricity price data from a public API, focusing on spot market electricity prices. The app retrieves and displays real-time and historical electricity price data, providing users with up-to-date information in an easy-to-read format.
+
+### Key Features
 - Fetches electricity price data from a reliable API.
 - Displays prices in an intuitive and user-friendly interface.
 - Built entirely in Kotlin for robust and efficient performance.
 
-This project serves as a practical tool for tracking electricity prices and can be extended with additional features in the future.
-
+## Python API
+The Python API is built using Flask and interacts with a MySQL database. It provides endpoints to fetch electricity price data aggregated over different time intervals. The API serves as the backend for storing and retrieving processed electricity pricing data.
 
 ## Getting started
 
