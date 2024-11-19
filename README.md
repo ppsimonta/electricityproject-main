@@ -1,8 +1,6 @@
 # ElectricityProject
 
 
-markdown
-Kopioi koodi
 # Application Overview
 
 This repository contains two main components: an Android application and a Python API.
