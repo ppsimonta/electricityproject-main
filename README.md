@@ -3,10 +3,7 @@
 
 # Application Overview
 
-This repository contains two main components: an Android application and a Python API.
-
-## Android Application
-The Android app is developed using Kotlin in Android Studio. It fetches electricity price data from a public API, focusing on spot market electricity prices. The app retrieves and displays real-time and historical electricity price data, providing users with up-to-date information in an easy-to-read format.
+This repository contains two main components: an Android application and a Python API. The Android app is developed using Kotlin in Android Studio. It fetches electricity price data from a public API, focusing on spot market electricity prices. The app retrieves and displays real-time and historical electricity price data, providing users with up-to-date information in an easy-to-read format.
 
 ### Key Features
 - Fetches electricity price data from a reliable API.
