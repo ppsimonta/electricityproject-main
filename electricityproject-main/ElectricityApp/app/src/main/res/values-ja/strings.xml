@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="menu_home">ホーム</string>
+    <string name="hello_blank_fragment">こんにちは空白のフラグメント</string>
+    <string name="date_precision">日付精度</string>
+    <string name="daily_precision_option">日</string>
+    <string name="monthly_precision_option">月</string>
+    <string name="yearly_precision_option">年</string>
+    <string name="cents_per_kilowatt_hour">㌣／㌗時</string>
+    <string name="price">価格</string>
+    <string name="january">一月</string>
+    <string name="february">二月</string>
+    <string name="march">三月</string>
+    <string name="april">四月</string>
+    <string name="may">五月</string>
+    <string name="june">六月</string>
+    <string name="july">七月</string>
+    <string name="august">八月</string>
+    <string name="september">九月</string>
+    <string name="october">十月</string>
+    <string name="november">十一月</string>
+    <string name="december">十二月</string>
+</resources>

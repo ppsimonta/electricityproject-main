@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Inställningar</string>
+    <string name="menu_home">Hem</string>
+    <string name="hello_blank_fragment">Hej tomt fragment</string>
+    <string name="date_precision">Datumprecision</string>
+    <string name="daily_precision_option">Daglig</string>
+    <string name="monthly_precision_option">Månatlig</string>
+    <string name="yearly_precision_option">Årlig</string>
+    <string name="cents_per_kilowatt_hour">cent/kWh</string>
+    <string name="price">pris</string>
+    <string name="january">januari</string>
+    <string name="february">feburari</string>
+    <string name="march">mars</string>
+    <string name="april">april</string>
+    <string name="may">maj</string>
+    <string name="june">juni</string>
+    <string name="july">juli</string>
+    <string name="august">augusti</string>
+    <string name="september">september</string>
+    <string name="october">oktober</string>
+    <string name="november">november</string>
+    <string name="december">december</string>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">ElectricityApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_precision">Date precision</string>
+    <string-array name="picker_precision_options">
+        <item>@string/daily_precision_option</item>
+        <item>@string/monthly_precision_option</item>
+        <item>@string/yearly_precision_option</item>
+    </string-array>
+    <string name="daily_precision_option">Daily</string>
+    <string name="monthly_precision_option">Monthly</string>
+    <string name="yearly_precision_option">Yearly</string>
+    <string name="cents_per_kilowatt_hour">cent/kWh</string>
+    <string name="price">Price</string>
+    <string-array name="months_array">
+        <item>@string/january</item>
+        <item>@string/february</item>
+        <item>@string/march</item>
+        <item>@string/april</item>
+        <item>@string/may</item>
+        <item>@string/june</item>
+        <item>@string/july</item>
+        <item>@string/august</item>
+        <item>@string/september</item>
+        <item>@string/october</item>
+        <item>@string/november</item>
+        <item>@string/december</item>
+    </string-array>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+</resources>

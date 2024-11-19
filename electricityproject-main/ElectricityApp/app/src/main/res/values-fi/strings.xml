@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Asetukset</string>
+    <string name="menu_home">Koti</string>
+    <string name="hello_blank_fragment">Hei tyhjä fragment</string>
+    <string name="date_precision">Päivämäärän tarkkuus</string>
+    <string name="daily_precision_option">Päiväkohtainen</string>
+    <string name="monthly_precision_option">Kuukausikohtainen</string>
+    <string name="yearly_precision_option">Vuosikohtainen</string>
+    <string name="cents_per_kilowatt_hour">snt/kWh</string>
+    <string name="price">hinta</string>
+    <string name="january">tammikuu</string>
+    <string name="february">helmikuu</string>
+    <string name="march">maaliskuu</string>
+    <string name="april">huhtikuu</string>
+    <string name="may">toukokuu</string>
+    <string name="june">kesäkuu</string>
+    <string name="july">heinäkuu</string>
+    <string name="august">elokuu</string>
+    <string name="september">syyskuu</string>
+    <string name="october">lokakuu</string>
+    <string name="november">marraskuu</string>
+    <string name="december">joulukuu</string>
+</resources>
